@@ -1,7 +1,19 @@
 ### Hi there 👋
 
-HEADER
+HEADER:
 
 
 
-ABOUT ME
+ABOUT ME:
+
+
+
+codewars:
+
+
+
+languages and tools
+
+
+
+follow me 
