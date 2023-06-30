@@ -3,15 +3,15 @@
 
 
 
-ABOUT ME:
-### Hi there 👋
+### ABOUT ME
+ Hi there 👋, 
 I am Volodia, I'm a beginner Software Engineer and a third-year student at the Faculty of Applied Mathematics and Computer Science at Ivan Franko National University of Lviv. I have been passionate about programming for two years now, and in this GitHub repository, I have gathered examples of projects that I have been working on to learn the fundamentals of programming and also to land my first job. My main areas of focus are C# development (using .NET Core, Entity Framework, and ASP.NET Framework) and front-end development using JavaScript, HTML, and CSS. I am actively learning these technologies as well as SQL and NoSQL databases. If you have any advice or suggestions, feel free to reach out to me on social media or directly here on GitHub.
 
 
 
 ### Codewars: 
-
 ![CodeWars](https://img.shields.io/badge/-CODEWARS-191a17?style=flat-square&logo=codewars&logoColor=c7352e) 
+
  https://www.codewars.com/users/VolodiaTutko
 
 
@@ -60,11 +60,20 @@ I am Volodia, I'm a beginner Software Engineer and a third-year student at the F
 
 
 
+Statistics 
 
 
 
 
 
 
+### Follow Me
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
-follow me 
+volodatutko32@gmail.com
+
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/volodia_tutko?igshid=MzNlNGNkZWQ4Mg==)
+
+
