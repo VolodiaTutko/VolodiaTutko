@@ -68,9 +68,7 @@ Statistics
 
 
 ### Follow Me
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-
-volodatutko32@gmail.com
+## Gmail: volodatutko32@gmail.com
 
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
