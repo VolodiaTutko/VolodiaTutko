@@ -5,7 +5,7 @@
 
 ### ABOUT ME
  Hi there 👋, 
-I am Volodia, I'm a beginner Software Engineer and a third-year student at the Faculty of Applied Mathematics and Computer Science at Ivan Franko National University of Lviv. I have been passionate about programming for two years now, and in this GitHub repository, I have gathered examples of projects that I have been working on to learn the fundamentals of programming and also to land my first job. My main areas of focus are C# development (using .NET Core, Entity Framework, and ASP.NET Framework) and front-end development using JavaScript, HTML, and CSS. I am actively learning these technologies as well as SQL and NoSQL databases. If you have any advice or suggestions, feel free to reach out to me on social media or directly here on GitHub.
+I am Volodia, I'm a beginner Software Engineer and a fourth-year student at the Faculty of Applied Mathematics and Computer Science at Ivan Franko National University of Lviv. I have been passionate about programming for three years now, and in this GitHub repository, I have gathered examples of projects that I have been working on to learn the fundamentals of programming and also to land my first job. My main areas of focus are C# development (using .NET Core, Entity Framework, and ASP.NET Framework) and front-end development using JavaScript, HTML, and CSS. I am actively learning these technologies as well as SQL and NoSQL databases. If you have any advice or suggestions, feel free to reach out to me on social media or directly here on GitHub.
 
 
 
@@ -29,10 +29,7 @@ I am Volodia, I'm a beginner Software Engineer and a third-year student at the F
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
